@@ -8,3 +8,7 @@
 - DOM Manipulation
 - Event Listeners
 - API Calls
+
+### Demo
+
+![Weather App Demo](Day-01-Weather-App/weather-demo.gif)
