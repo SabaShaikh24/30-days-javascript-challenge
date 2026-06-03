@@ -11,4 +11,4 @@
 
 ### Demo
 
-![Weather App Demo](Day-01-Weather-App/weather-demo.gif)
+![Weather App Demo](Day-01-Weather-App/weatherdemo.gif)
