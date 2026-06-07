@@ -32,4 +32,7 @@
 - Persistent Data Storage using Local Storage
 
 ## Demo
-<img width="800" height="375" alt="Day2" src="https://github.com/user-attachments/assets/abb0c04a-9db9-4b21-9c45-c5ca04c34067" />
+<img width="800" height="375" alt="Day2" src="https://github.com/user-attachments/assets/99d91292-f854-4e21-9dda-94f394d43d30" />
+
+
+
