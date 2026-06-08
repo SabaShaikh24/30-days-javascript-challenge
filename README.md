@@ -52,6 +52,7 @@
 * Next Question Navigation
 * Final Score Calculation
 * Play Again Functionality
+  
 
 ##Demo
 <img width="800" height="376" alt="Day3" src="https://github.com/user-attachments/assets/01267d0c-549e-4e9a-a3dd-b45b206bcfc2" />
